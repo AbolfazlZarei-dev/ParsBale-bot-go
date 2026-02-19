@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://s8.uupload.ir/files/parsbale_c9n2.jpg" alt="ParsBale Banner" width="100%">
+  <img src="https://s8.uupload.ir/files/parsbale_c9n2.jpg" alt="ParsBale Banner" width="30%">
 </p>
 
 <h1 align="center">ParsBale Bot API</h1>
