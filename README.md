@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-    <a href="https://goreportcard.com/report/github.com/AbolfazlZarei-dev/ParsBale-bot-go/v1"><img src="https://goreportcard.com/badge/github.com/AbolfazlZarei-dev/ParsBale-bot-go/v1" alt="Go Report Card"></a>
-    <a href="https://godoc.org/github.com/AbolfazlZarei-dev/ParsBale-bot-go/v1"><img src="https://godoc.org/github.com/AbolfazlZarei-dev/ParsBale-bot-go/v1?status.svg" alt="GoDoc"></a>
+    <a href="https://goreportcard.com/report/github.com/AbolfazlZarei-dev/ParsBale-bot-go"><img src="https://goreportcard.com/badge/github.com/AbolfazlZarei-dev/ParsBale-bot-go" alt="Go Report Card"></a>
+    <a href="https://godoc.org/github.com/AbolfazlZarei-dev/ParsBale-bot-go"><img src="https://godoc.org/github.com/AbolfazlZarei-dev/ParsBale-bot-go?status.svg" alt="GoDoc"></a>
     <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
     <a href="https://github.com/AbolfazlZarei-dev/ParsBale-bot-go/issues"><img src="https://img.shields.io/github/issues/AbolfazlZarei-dev/ParsBale-bot-go.svg" alt="Issues"></a>
 </p>
@@ -66,7 +66,7 @@
 برای نصب کتابخانه کافیست دستور زیر را در ترمینال اجرا کنید:
 
 ```bash
-go get github.com/AbolfazlZarei-dev/ParsBale-bot-go/v1
+go get github.com/AbolfazlZarei-dev/ParsBale-bot-go
 ```
 
 ---
@@ -85,7 +85,7 @@ import (
 	"os"
 	"os/signal"
 
-	ParsBale "github.com/AbolfazlZarei-dev/ParsBale-bot-go/v1"
+	ParsBale "github.com/AbolfazlZarei-dev/ParsBale-bot-go"
 )
 
 func main() {
